@@ -89,8 +89,8 @@ vancouverca.libraryreserve.com images.contentreserve.com * noop
 vancouverca.libraryreserve.com libraryreserve.cdn.overdrive.com * noop
 vpl.bibliocommons.com cor-cdn-static.bibliocommons.com * noop
 vpl.bibliocommons.com s3.amazonaws.com * noop
-www.amazon.ca ssl-images-amazon.com * noop
-www.google.ca googleusercontent.com * noop
-www.humblebundle.com imgix.net * noop
-www.xbox.com xboxlive.com * noop
+amazon.ca ssl-images-amazon.com * noop
+google.ca googleusercontent.com * noop
+humblebundle.com imgix.net * noop
+xbox.com xboxlive.com * noop
 youtube.com googlevideo.com * noop
