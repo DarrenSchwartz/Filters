@@ -1,14 +1,14 @@
-adbroker.mp.dse.microsoft.com
-addtoany.com
-adnxs.com
-ads.flurry.com
-adservice.google.ca
-adservice.google.com
-adswizz.com
-atwola.com
-hockeyapp.net
-mnet-ad.net
-msads.net
-omnitagjs.com
-pr-bh.ybp.yahoo.com
-zedo.com
+127.0.0.1 adbroker.mp.dse.microsoft.com
+127.0.0.1 addtoany.com
+127.0.0.1 adnxs.com
+127.0.0.1 ads.flurry.com
+127.0.0.1 adservice.google.ca
+127.0.0.1 adservice.google.com
+127.0.0.1 adswizz.com
+127.0.0.1 atwola.com
+127.0.0.1 hockeyapp.net
+127.0.0.1 mnet-ad.net
+127.0.0.1 msads.net
+127.0.0.1 omnitagjs.com
+127.0.0.1 pr-bh.ybp.yahoo.com
+127.0.0.1 zedo.com
