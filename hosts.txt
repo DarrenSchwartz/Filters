@@ -1,7 +1,6 @@
 127.0.0.1 adbroker.mp.dse.microsoft.com
 127.0.0.1 addtoany.com
 127.0.0.1 adnxs.com
-127.0.0.1 ads.flurry.com
 127.0.0.1 adservice.google.ca
 127.0.0.1 adservice.google.com
 127.0.0.1 adswizz.com
