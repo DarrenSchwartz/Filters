@@ -13,6 +13,7 @@
 127.0.0.1 criteo.net
 127.0.0.1 jwplayer.com
 127.0.0.1 mnet-ad.net
+127.0.0.1 mobula.sdk.duapps.com
 127.0.0.1 msads.net
 127.0.0.1 omnitagjs.com
 127.0.0.1 pr-bh.ybp.yahoo.com
