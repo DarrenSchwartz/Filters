@@ -2,7 +2,7 @@
 127.0.0.1 ad.flipboard.com
 127.0.0.1 adbroker.mp.dse.microsoft.com
 127.0.0.1 addthis.com
-127.0.0.1 addtoany.com
+127.0.0.1 addtoany.com www.addtoany.com
 127.0.0.1 adnxs.com
 127.0.0.1 adroll.com
 127.0.0.1 adservice.google.ca
