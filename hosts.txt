@@ -1,13 +1,23 @@
+127.0.0.1 3lift.com
+127.0.0.1 ad.flipboard.com
 127.0.0.1 adbroker.mp.dse.microsoft.com
-127.0.0.1 addtoany.com www.addtoany.com
+127.0.0.1 addthis.com
+127.0.0.1 addtoany.com
 127.0.0.1 adnxs.com
+127.0.0.1 adroll.com
 127.0.0.1 adservice.google.ca
 127.0.0.1 adservice.google.com
 127.0.0.1 adswizz.com
 127.0.0.1 atwola.com
-127.0.0.1 hockeyapp.net
+127.0.0.1 browsiprod.com
+127.0.0.1 criteo.net
+127.0.0.1 jwplayer.com
 127.0.0.1 mnet-ad.net
 127.0.0.1 msads.net
 127.0.0.1 omnitagjs.com
 127.0.0.1 pr-bh.ybp.yahoo.com
+127.0.0.1 settings-win.data.microsoft.com
+127.0.0.1 solidworks.com
+127.0.0.1 univision.com
+127.0.0.1 uvnimg.com
 127.0.0.1 zedo.com
