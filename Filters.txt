@@ -1,30 +1,108 @@
 ! Title: Darren's Filter List
-msn.com##.*.paddle
+! Expires: 1 days
+! Description: Darren's personal filter list
+
+! CSS rules - must apply to a specific donain, no wildcards
+play.google.com##.gpm-quick-nav:style(opacity: 1 !important)
+play.google.com##.time-label:style(opacity: 1 !important)
+play.google.com##.x-scope:style(opacity: 1 !important)
+play.google.com###time_container_current:style(opacity: 1 !important)
+play.google.com###time_container_duration:style(opacity: 1 !important)
+play.google.com##.now-playing-actions:style(opacity: 1 !important; width: 140px !important)
+
+tinkerman.cat##body:style(background: white !important)
+
+! Badfilters
+!/favicon.ico$third-party,image,domain=~reddit.com,badfilter
+
+! Random domains
+canadiantire.ca##footer
+canadiantire.ca##.global-header__header-top-bar
+canadiantire.ca##.assortment-brand-header
+cbc.ca##.cbc-newsletter
+bing.com###hp_bottomCell
+nutritiondata.self.com###rightrail
+sunlife.com##.ui-front.ui-widget-overlay
+sunlife.com##.thank-you.ui-front.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
+makeuseof.com###sidebar
+linkedin.com###msg-overlay
+amazon.*##.shipping.hero
+arduino.cc/video
+licdn.com/scds/common/u/images/apps/uas/*.jpg$image
+
+! Universal element hiding rules
+##.js-sharing.sharing
+##.adsblocked
+##eubanner
+##.*.sharingtb
+##.opinionlab-sidebar
+##ad
+##.soc_med
+##nav-social
+##.share
+###share
+###ctl00_CP_pnlVisaCheckout
+##FeedBackModuleContainer
+###sharingfooter
+###nav-social
+##.float_livechat
+##.x-hidden-vp1.site-survey-opener-desktop
+##.survey-invite-slide-in.survey-invite.survey-tab
+##.recommended-inline
+###js-gdpr-consent-banner
+
+!www.google.com###gb
+!www.google.com###featureListPanel
+!www.google.com###undoRedoToolbar
+!www.google.com###drawingToolbar
+!www.google.com###directionsToolbar
+!www.google.com###measureToolbar
+!www.google.com###mp-footer
+!www.google.com###zoomToolbar
+!www.google.com###search-bar
+!www.google.com###map-renderer-container > div:nth-of-type(3) > div
+||www.gstatic.com/mapspro/images/help-icon.png$image
+
+ebay.ca###footer
+ebay.ca##.topRtm.me-rtm
+ebay.ca###Foot
+ebay.ca###rtm_list1
+ebay.ca###glbfooter
+ebay.ca###gh-bt
+ebay.ca###gh-ti
+ebay.ca##.global-footer
+
+outlook.live.com##._16EfhtP2SkmWE3EtSGakyM
+microsoft.com##.survey-invite-slide-in.survey-invite.survey-tab
+microsoft.com##.skylight-entry
+msn.com##.paddle
 msn.com##.scrolled.head
 msn.com##.player
 msn.com##.livecoverageherofull
 msn.com##.loaded.normalsection
 msn.com###filmstripouter
+msn.com###recentquotes
+msn.com###aside
 
-ebay.ca###footer
-ebay.ca##.topRtm.me-rtm
-ebay.ca###Foot
+google.*##.noprint.scene-footer-container
+google.*###eobm_0
+google.*###eobm_1
+google.*###eobm_2
+google.*###eobm_3
+google.*###eobm_4
+google.*###eobm_5
+google.*###eobm_6
+google.*###eobm_7
+google.*###eobm_8
+google.*###eobm_9
+google.*###eobm_10
+google.*###eobm_11
+google.*###eobm_12
+google.*###eobm_13
+google.*###eobm_14
+google.*###eobm_15
+google.*###eobm_16
+google.*###eobm_17
+google.*###eobm_*
+google.*##.noprint.scene-footer-container
 
-makeuseof.com###sidebar
-linkedin.com###msg-overlay
-arduino.cc/video
-amazon.com##.shipping.hero
-
-static.licdn.com/scds/common/u/images/apps/uas/*.jpg$image
-##.js-sharing.sharing
-##.adsblocked
-##eubanner
-##.*.sharingtb
-###ctl00_CP_pnlVisaCheckout
-##FeedBackModuleContainer
-##.opinionlab-sidebar
-###sharingfooter
-##ad > iframe:nth-child(1)
-##.soc_med
-##nav-social
-###nav-social
