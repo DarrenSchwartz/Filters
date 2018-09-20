@@ -1,0 +1,15 @@
+! Title: Google MyMaps Element Hiding
+! Expires: 1 day
+! Description: Hides all the UI elements overlayed on the map to enable better screen shots.
+
+www.google.com###gb
+www.google.com###featureListPanel
+www.google.com###undoRedoToolbar
+www.google.com###drawingToolbar
+www.google.com###directionsToolbar
+www.google.com###measureToolbar
+www.google.com###mp-footer
+www.google.com###zoomToolbar
+www.google.com###search-bar
+www.google.com###map-renderer-container > div:nth-of-type(3) > div
+||www.gstatic.com/mapspro/images/help-icon.png$image
