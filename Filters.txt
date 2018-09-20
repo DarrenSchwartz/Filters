@@ -1,5 +1,5 @@
 ! Title: Darren's Filter List
-! Expires: 1 days
+! Expires: 1 day
 ! Description: Darren's personal filter list
 
 ! CSS rules - must apply to a specific donain, no wildcards
