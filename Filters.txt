@@ -51,17 +51,18 @@ licdn.com/scds/common/u/images/apps/uas/*.jpg$image
 ##.recommended-inline
 ###js-gdpr-consent-banner
 
+www.google.com###mp-footer
+www.google.com###map-renderer-container > div:nth-of-type(3) > div
+||www.gstatic.com/mapspro/images/help-icon.png$image
+! Toggle these cosmetic filters when needed
 !www.google.com###gb
 !www.google.com###featureListPanel
 !www.google.com###undoRedoToolbar
 !www.google.com###drawingToolbar
 !www.google.com###directionsToolbar
 !www.google.com###measureToolbar
-!www.google.com###mp-footer
 !www.google.com###zoomToolbar
 !www.google.com###search-bar
-!www.google.com###map-renderer-container > div:nth-of-type(3) > div
-||www.gstatic.com/mapspro/images/help-icon.png$image
 
 ebay.ca###footer
 ebay.ca##.topRtm.me-rtm
