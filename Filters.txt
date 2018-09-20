@@ -1,3 +1,4 @@
+! Title: Darren's Filter List
 msn.com##.*.paddle
 msn.com##.scrolled.head
 msn.com##.player
