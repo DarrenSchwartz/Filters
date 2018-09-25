@@ -74,6 +74,7 @@ ebay.ca###glbfooter
 ebay.ca###gh-bt
 ebay.ca###gh-ti
 ebay.ca##.global-footer
+ebay.ca###scandal100938
 
 outlook.live.com##._16EfhtP2SkmWE3EtSGakyM
 microsoft.com##.survey-invite-slide-in.survey-invite.survey-tab
