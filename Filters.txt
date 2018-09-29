@@ -29,8 +29,6 @@ linkedin.com###msg-overlay
 amazon.*##.shipping.hero
 arduino.cc/video
 licdn.com/scds/common/u/images/apps/uas/*.jpg$image
-! block stupit google popup in top right of search page
-google.*##.gb_g.gb_aa
 
 ! Universal element hiding rules
 ##.js-sharing.sharing
@@ -108,5 +106,3 @@ google.*###eobm_15
 google.*###eobm_16
 google.*###eobm_17
 google.*###eobm_*
-google.*##.noprint.scene-footer-container
-
