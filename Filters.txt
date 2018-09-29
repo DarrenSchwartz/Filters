@@ -50,6 +50,7 @@ licdn.com/scds/common/u/images/apps/uas/*.jpg$image
 ##.survey-invite-slide-in.survey-invite.survey-tab
 ##.recommended-inline
 ###js-gdpr-consent-banner
+##.open.wj-header-usercookies
 
 www.google.com###mp-footer
 www.google.com###map-renderer-container > div:nth-of-type(3) > div
