@@ -12,10 +12,10 @@ play.google.com##.now-playing-actions:style(opacity: 1 !important; width: 140px 
 
 tinkerman.cat##body:style(background: white !important)
 
-! Badfilters
-!/favicon.ico$third-party,image,domain=~reddit.com,badfilter
-
 ! Random domains
+outlook.live.com##._16EfhtP2SkmWE3EtSGakyM
+microsoft.com##.survey-invite-slide-in.survey-invite.survey-tab
+microsoft.com##.skylight-entry
 canadiantire.ca##footer
 canadiantire.ca##.global-header__header-top-bar
 canadiantire.ca##.assortment-brand-header
@@ -29,6 +29,8 @@ linkedin.com###msg-overlay
 amazon.*##.shipping.hero
 arduino.cc/video
 licdn.com/scds/common/u/images/apps/uas/*.jpg$image
+costco.ca###hero-carousel > .draggable.slick-list > .slick-track
+computerworld.com##.fakesidebar-auto.fakesidebar[id^="fsb-"]
 
 ! Universal element hiding rules
 ##.js-sharing.sharing
@@ -55,15 +57,6 @@ licdn.com/scds/common/u/images/apps/uas/*.jpg$image
 www.google.com###mp-footer
 www.google.com###map-renderer-container > div:nth-of-type(3) > div
 ||www.gstatic.com/mapspro/images/help-icon.png$image
-! Toggle these cosmetic filters when needed
-!www.google.com###gb
-!www.google.com###featureListPanel
-!www.google.com###undoRedoToolbar
-!www.google.com###drawingToolbar
-!www.google.com###directionsToolbar
-!www.google.com###measureToolbar
-!www.google.com###zoomToolbar
-!www.google.com###search-bar
 
 ebay.ca###footer
 ebay.ca##.topRtm.me-rtm
@@ -74,6 +67,7 @@ ebay.ca###gh-bt
 ebay.ca###gh-ti
 ebay.ca##.global-footer
 ebay.ca###scandal100938
+ebay.ca##.hl-common-carousel.hl-infinite-carousel
 
 outlook.live.com##._16EfhtP2SkmWE3EtSGakyM
 microsoft.com##.survey-invite-slide-in.survey-invite.survey-tab
