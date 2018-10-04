@@ -31,6 +31,7 @@ arduino.cc/video
 licdn.com/scds/common/u/images/apps/uas/*.jpg$image
 costco.ca###hero-carousel > .draggable.slick-list > .slick-track
 computerworld.com##.fakesidebar-auto.fakesidebar[id^="fsb-"]
+westjet.com##.open.wj-header-usercookies
 
 ! Universal element hiding rules
 ##.js-sharing.sharing
