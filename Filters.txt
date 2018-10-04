@@ -9,7 +9,7 @@ play.google.com##.x-scope:style(opacity: 1 !important)
 play.google.com###time_container_current:style(opacity: 1 !important)
 play.google.com###time_container_duration:style(opacity: 1 !important)
 play.google.com##.now-playing-actions:style(opacity: 1 !important; width: 140px !important)
-
+ebay.ca##a:style(text-decoration: underline !important)
 tinkerman.cat##body:style(background: white !important)
 
 ! Random domains
