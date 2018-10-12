@@ -10,7 +10,7 @@ play.google.com###time_container_current:style(opacity: 1 !important)
 play.google.com###time_container_duration:style(opacity: 1 !important)
 play.google.com##.now-playing-actions:style(opacity: 1 !important; width: 140px !important)
 ebay.ca##a:style(text-decoration: underline !important)
-tinkerman.cat##body:style(background: white !important)
+ebay.ca###s2-c2-items-header:style(position: sticky !important; top: 0 !important; background-color: white !important; padding: 5px 5px 5px 5px !important; border: 1px solid red !important; z-index: 1;)
 
 ! Random domains
 outlook.live.com##._16EfhtP2SkmWE3EtSGakyM
