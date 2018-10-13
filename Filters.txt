@@ -55,8 +55,10 @@ westjet.com##.open.wj-header-usercookies
 ###js-gdpr-consent-banner
 ##.open.wj-header-usercookies
 
-www.google.com###mp-footer
-www.google.com###map-renderer-container > div:nth-of-type(3) > div
+google.*##.noprint.scene-footer-container
+google.*##.AUiS2
+google.com###mp-footer
+google.com###map-renderer-container > div:nth-of-type(3) > div
 ||www.gstatic.com/mapspro/images/help-icon.png$image
 
 ebay.ca###footer
@@ -81,24 +83,3 @@ msn.com##.loaded.normalsection
 msn.com###filmstripouter
 msn.com###recentquotes
 msn.com###aside
-
-google.*##.noprint.scene-footer-container
-google.*###eobm_0
-google.*###eobm_1
-google.*###eobm_2
-google.*###eobm_3
-google.*###eobm_4
-google.*###eobm_5
-google.*###eobm_6
-google.*###eobm_7
-google.*###eobm_8
-google.*###eobm_9
-google.*###eobm_10
-google.*###eobm_11
-google.*###eobm_12
-google.*###eobm_13
-google.*###eobm_14
-google.*###eobm_15
-google.*###eobm_16
-google.*###eobm_17
-google.*###eobm_*
