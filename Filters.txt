@@ -9,6 +9,7 @@ play.google.com##.x-scope:style(opacity: 1 !important)
 play.google.com###time_container_current:style(opacity: 1 !important)
 play.google.com###time_container_duration:style(opacity: 1 !important)
 play.google.com##.now-playing-actions:style(opacity: 1 !important; width: 140px !important)
+play.google.com##.paper-toast-0.x-scope
 ebay.ca##a:style(text-decoration: underline !important)
 ebay.ca###s2-c2-items-header:style(position: sticky !important; top: 0 !important; background-color: white !important; padding: 5px 5px 5px 5px !important; border: 1px solid red !important; z-index: 1;)
 
@@ -32,6 +33,8 @@ licdn.com/scds/common/u/images/apps/uas/*.jpg$image
 costco.ca###hero-carousel > .draggable.slick-list > .slick-track
 computerworld.com##.fakesidebar-auto.fakesidebar[id^="fsb-"]
 westjet.com##.open.wj-header-usercookies
+home-assistant.io##.alert-global-notice.alert-info.alert
+||secure.checkout.visa.com/wallet-services-web/xo/button.png$image
 
 ! Universal element hiding rules
 ##.js-sharing.sharing
@@ -54,6 +57,7 @@ westjet.com##.open.wj-header-usercookies
 ##.recommended-inline
 ###js-gdpr-consent-banner
 ##.open.wj-header-usercookies
+##.cookie-notice-container
 
 google.*##.noprint.scene-footer-container
 google.*##.AUiS2
@@ -69,7 +73,6 @@ ebay.ca###glbfooter
 ebay.ca###gh-bt
 ebay.ca###gh-ti
 ebay.ca##.global-footer
-ebay.ca###scandal100938
 ebay.ca##.hl-common-carousel.hl-infinite-carousel
 
 outlook.live.com##._16EfhtP2SkmWE3EtSGakyM
