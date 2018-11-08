@@ -21,10 +21,10 @@ canadiantire.ca##footer
 canadiantire.ca##.global-header__header-top-bar
 canadiantire.ca##.assortment-brand-header
 cbc.ca##.cbc-newsletter
-bing.com###hp_bottomCell
 nutritiondata.self.com###rightrail
 sunlife.com##.ui-front.ui-widget-overlay
 sunlife.com##.thank-you.ui-front.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
+sunlife.com###providerSearchBanner
 makeuseof.com###sidebar
 linkedin.com###msg-overlay
 amazon.*##.shipping.hero
