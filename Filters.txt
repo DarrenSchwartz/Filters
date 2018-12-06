@@ -51,6 +51,7 @@ home-assistant.io##.alert-global-notice.alert-info.alert
 ##FeedBackModuleContainer
 ###sharingfooter
 ###nav-social
+###site-xpromo-banner
 ##.float_livechat
 ##.x-hidden-vp1.site-survey-opener-desktop
 ##.survey-invite-slide-in.survey-invite.survey-tab
