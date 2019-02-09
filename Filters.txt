@@ -87,3 +87,5 @@ msn.com##.loaded.normalsection
 msn.com###filmstripouter
 msn.com###recentquotes
 msn.com###aside
+
+netflix.com##.billboard-row
