@@ -1,8 +1,8 @@
 ! Title: Darren's Filter List
-! Expires: 1 day
+! Expires: 24 hours
 ! Description: Darren's personal filter list
 
-! CSS rules - must apply to a specific donain, no wildcards
+! CSS rules - must apply to a specific domain, no wildcards
 play.google.com##.gpm-quick-nav:style(opacity: 1 !important)
 play.google.com##.time-label:style(opacity: 1 !important)
 play.google.com##.x-scope:style(opacity: 1 !important)
@@ -25,6 +25,8 @@ nutritiondata.self.com###rightrail
 sunlife.com##.ui-front.ui-widget-overlay
 sunlife.com##.thank-you.ui-front.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
 sunlife.com###providerSearchBanner
+sunlife.com###modalpopupAccessAllowed
+sunlife.com##.in.fade.modal-backdrop
 makeuseof.com###sidebar
 linkedin.com###msg-overlay
 amazon.*##.shipping.hero
@@ -60,6 +62,9 @@ home-assistant.io##.alert-global-notice.alert-info.alert
 ##.open.wj-header-usercookies
 ##.cookie-notice-container
 ##div[title*="cookie"]
+##div[title*="gdpr"]
+##div[title*="social"]
+##div[title*="share"]
 
 google.*##.noprint.scene-footer-container
 google.*##.AUiS2
