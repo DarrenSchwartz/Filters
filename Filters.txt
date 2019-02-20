@@ -59,6 +59,7 @@ home-assistant.io##.alert-global-notice.alert-info.alert
 ###js-gdpr-consent-banner
 ##.open.wj-header-usercookies
 ##.cookie-notice-container
+##.espresso-cookie-popup
 
 google.*##.noprint.scene-footer-container
 google.*##.AUiS2
