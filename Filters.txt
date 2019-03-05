@@ -63,11 +63,9 @@ home-assistant.io##.alert-global-notice.alert-info.alert
 ##.cookie-notice-container
 ##div[title*="cookie"]
 ##div[title*="gdpr"]
-##div[title*="social"]
 ##div[title*="share"]
 ##div[class*="cookie"]
 ##div[class*="gdpr"]
-##div[class*="social"]
 ##div[class*="share"]
 
 google.*##.noprint.scene-footer-container
