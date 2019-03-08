@@ -12,6 +12,7 @@ play.google.com##.now-playing-actions:style(opacity: 1 !important; width: 140px 
 play.google.com##.paper-toast-0.x-scope
 ebay.ca##a:style(text-decoration: underline !important; text-decoration-color: red !important;)
 ebay.ca##.sticky-header:style(padding:2px !important; border: 1px solid red !important;)
+github.com##a:style(text-decoration: underline !important; text-decoration-color: red !important;)
 
 ! Random domains
 outlook.live.com##._16EfhtP2SkmWE3EtSGakyM
