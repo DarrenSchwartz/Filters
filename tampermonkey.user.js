@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         github icons
 // @namespace    https://github.com/
-// @version      1.1
+// @version      1.2
 // @description  fix the crappy UI
 // @author       notNotSure
 // @match        https://github.com/*
@@ -17,7 +17,7 @@ var myButtonStyle = "background-color: #ffffcc !important; color:black !importan
   ";
 
 var items;
-items = document.querySelectorAll('.btn-link, .btn, button, .HeaderNavlink, .UnderlineNav-item, .pagehead-tabs-item, \
+items = document.querySelectorAll('.btn-link, .btn, button, .HeaderNavlink, .UnderlineNav-item, .pagehead-tabs-item \
   ');
 
 for (var i=0; i < items.length; i++) {
