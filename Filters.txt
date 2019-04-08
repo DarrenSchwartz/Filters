@@ -39,6 +39,8 @@ computerworld.com##.fakesidebar-auto.fakesidebar[id^="fsb-"]
 westjet.com##.open.wj-header-usercookies
 home-assistant.io##.alert-global-notice.alert-info.alert
 ||secure.checkout.visa.com/wallet-services-web/xo/button.png$image
+humblebundle.com###site-xpromo-banner
+humblebundle.com##.hero-foreground
 
 ! Universal element hiding rules
 ##.js-sharing.sharing
