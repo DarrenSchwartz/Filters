@@ -63,6 +63,7 @@ home-assistant.io##.alert-global-notice.alert-info.alert
 ###js-gdpr-consent-banner
 ##.open.wj-header-usercookies
 ##.cookie-notice-container
+##.wp-social-login-widget
 ##div[title*="cookie"]
 ##div[title*="gdpr"]
 ##div[title*="share"]
