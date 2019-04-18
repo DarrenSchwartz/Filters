@@ -66,12 +66,14 @@ humblebundle.com##.hero-foreground
 ##.open.wj-header-usercookies
 ##.cookie-notice-container
 ##.wp-social-login-widget
+
+! wildcard filters - these break some sites
 ##div[title*="cookie"]
 ##div[title*="gdpr"]
-##div[title*="share"]
-##div[class*="cookie"]
-##div[class*="gdpr"]
-##div[class*="share"]
+!##div[title*="share"]
+!##div[class*="cookie"]
+!##div[class*="gdpr"]
+!##div[class*="share"]
 
 google.*##.noprint.scene-footer-container
 google.*##.AUiS2
