@@ -14,6 +14,7 @@ ebay.ca##a:style(text-decoration: underline !important; text-decoration-color: r
 ebay.ca##.sticky-header:style(padding:2px !important; border: 1px solid red !important;)
 github.com##a:style(text-decoration: underline !important; text-decoration-color: red !important;)
 google.com###center_col:style(margin-left:0px !important)
+amazon.ca##.scrubberBar:style(opacity: 1 !important;)
 
 ! Random domains
 outlook.live.com##._16EfhtP2SkmWE3EtSGakyM
