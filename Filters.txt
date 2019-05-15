@@ -59,6 +59,7 @@ humblebundle.com##.hero-foreground
 ###sharingfooter
 ###nav-social
 ###site-xpromo-banner
+###bottomAdvert
 ##.float_livechat
 ##.x-hidden-vp1.site-survey-opener-desktop
 ##.survey-invite-slide-in.survey-invite.survey-tab
@@ -71,6 +72,7 @@ humblebundle.com##.hero-foreground
 ! wildcard filters - these break some sites
 ##div[title*="cookie"]
 ##div[title*="gdpr"]
+##div[title*="advert"]
 !##div[title*="share"]
 !##div[class*="cookie"]
 !##div[class*="gdpr"]
