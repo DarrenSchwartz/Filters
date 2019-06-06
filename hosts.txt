@@ -21,3 +21,4 @@
 127.0.0.1 univision.com
 127.0.0.1 uvnimg.com
 127.0.0.1 zedo.com
+127.0.0.1 outcome-ssp.supersonicads.com
