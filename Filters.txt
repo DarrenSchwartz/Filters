@@ -2,7 +2,8 @@
 ! Expires: 24 hours
 ! Description: Darren's personal filter list
 
-! CSS rules - must apply to a specific domain, no wildcards
+! CSS rules - must apply to a specific domain, no domain wildcards
+!google.com###center_col:style(margin-left:0px !important)
 play.google.com##.gpm-quick-nav:style(opacity: 1 !important)
 play.google.com##.time-label:style(opacity: 1 !important)
 play.google.com##.x-scope:style(opacity: 1 !important)
@@ -13,16 +14,18 @@ play.google.com##.paper-toast-0.x-scope
 ebay.ca##a:style(text-decoration: underline !important; text-decoration-color: red !important;)
 ebay.ca##.sticky-header:style(padding:2px !important; border: 1px solid red !important;)
 github.com##a:style(text-decoration: underline !important; text-decoration-color: red !important;)
-google.com###center_col:style(margin-left:0px !important)
 amazon.ca##.scrubberBar:style(opacity: 1 !important;)
 
 ! Random domains
+allrecipes.com##.magazine-bar
+allrecipes.com##.ng-scope.video-section
 outlook.live.com##._16EfhtP2SkmWE3EtSGakyM
 microsoft.com##.survey-invite-slide-in.survey-invite.survey-tab
 microsoft.com##.skylight-entry
 canadiantire.ca##footer
 canadiantire.ca##.global-header__header-top-bar
 canadiantire.ca##.assortment-brand-header
+canadiantire.ca##div.section.banner-builder
 cbc.ca##.cbc-newsletter
 nutritiondata.self.com###rightrail
 sunlife.com##.ui-front.ui-widget-overlay
@@ -42,6 +45,7 @@ home-assistant.io##.alert-global-notice.alert-info.alert
 ||secure.checkout.visa.com/wallet-services-web/xo/button.png$image
 humblebundle.com###site-xpromo-banner
 humblebundle.com##.hero-foreground
+netflix.com##.billboard-row
 
 ! Universal element hiding rules
 ##.js-sharing.sharing
@@ -94,9 +98,6 @@ ebay.ca###gh-ti
 ebay.ca##.global-footer
 ebay.ca##.hl-common-carousel.hl-infinite-carousel
 
-outlook.live.com##._16EfhtP2SkmWE3EtSGakyM
-microsoft.com##.survey-invite-slide-in.survey-invite.survey-tab
-microsoft.com##.skylight-entry
 msn.com##.paddle
 msn.com##.scrolled.head
 msn.com##.player
@@ -106,4 +107,12 @@ msn.com###filmstripouter
 msn.com###recentquotes
 msn.com###aside
 
-netflix.com##.billboard-row
+! Games with Gold
+||xbl-smooth-ssl-xboxlive-com.akamaized.net^$xmlhttprequest,domain=www.microsoft.com
+microsoft.com##.cli_backgroundTrailer.pi-background:style(height:200px !important)
+xbox.com###TopContentBlockList_2
+
+! calendar item borders
+outlook.live.com##._2cJ-FI26AKDp3TPOb0I_68:style(border: 1px solid red !important;)
+! exception to allow task sharing button
+to-do.microsoft.com#@#.sharingButton
