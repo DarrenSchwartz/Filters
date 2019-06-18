@@ -15,6 +15,9 @@ ebay.ca##a:style(text-decoration: underline !important; text-decoration-color: r
 ebay.ca##.sticky-header:style(padding:2px !important; border: 1px solid red !important;)
 github.com##a:style(text-decoration: underline !important; text-decoration-color: red !important;)
 amazon.ca##.scrubberBar:style(opacity: 1 !important;)
+successfactors.com##.tgm-objective-actions:style(border:3px solid red !important;)
+successfactors.com##.tgm-objective-name-edit:style(border:3px solid red !important; box-shadow:5px 5px 10px red !important; background-color:lightgreen !important; font-size: 20px !important; color: red !important; padding:4px !important;)
+successfactors.com###customHeaderModulePickerBtn:style(border:3px solid red !important;)
 
 ! Random domains
 allrecipes.com##.magazine-bar
