@@ -84,6 +84,8 @@ netflix.com##.billboard-row
 !##div[class*="cookie"]
 !##div[class*="gdpr"]
 !##div[class*="share"]
+##div[class*="cookie-policy"]
+##div[class*="cookies-policy"]
 
 google.*##.noprint.scene-footer-container
 google.*##.AUiS2
