@@ -37,9 +37,13 @@ sunlife.com###providerSearchBanner
 sunlife.com###modalpopupAccessAllowed
 sunlife.com##.in.fade.modal-backdrop
 makeuseof.com###sidebar
+nodered.org##.alert-info.alert.signup-cta
+nodered.org###banner
 linkedin.com###msg-overlay
 amazon.*##.shipping.hero
+amazon.ca###sc.new-upsell
 arduino.cc/video
+ifttt.com##.site-footer
 licdn.com/scds/common/u/images/apps/uas/*.jpg$image
 costco.ca###hero-carousel > .draggable.slick-list > .slick-track
 computerworld.com##.fakesidebar-auto.fakesidebar[id^="fsb-"]
@@ -75,6 +79,7 @@ netflix.com##.billboard-row
 ##.open.wj-header-usercookies
 ##.cookie-notice-container
 ##.wp-social-login-widget
+##.cookies-policy-consent-popup
 
 ! wildcard filters - these break some sites
 ##div[title*="cookie"]
@@ -102,6 +107,7 @@ ebay.ca###gh-bt
 ebay.ca###gh-ti
 ebay.ca##.global-footer
 ebay.ca##.hl-common-carousel.hl-infinite-carousel
+ebay.ca###ocs-inflow
 
 msn.com##.paddle
 msn.com##.scrolled.head
