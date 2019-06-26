@@ -53,6 +53,8 @@ home-assistant.io##.alert-global-notice.alert-info.alert
 humblebundle.com###site-xpromo-banner
 humblebundle.com##.hero-foreground
 netflix.com##.billboard-row
+alibaba.com###J-ali-sidebar
+hivemq.com###nlPopup
 
 ! Universal element hiding rules
 ##.js-sharing.sharing
