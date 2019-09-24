@@ -126,6 +126,6 @@ microsoft.com##.cli_backgroundTrailer.pi-background:style(height:200px !importan
 xbox.com###TopContentBlockList_2
 
 ! calendar item borders
-outlook.live.com##._2cJ-FI26AKDp3TPOb0I_68:style(border: 1px solid red !important;)
+outlook.live.com##._1y5pb2-D7-eeKRS8slh3lk:style(border: 1px solid red !important;)
 ! exception to allow task sharing button
 to-do.microsoft.com#@#.sharingButton
