@@ -125,7 +125,14 @@ msn.com###aside
 microsoft.com##.cli_backgroundTrailer.pi-background:style(height:200px !important)
 xbox.com###TopContentBlockList_2
 
-! calendar item borders
-outlook.live.com##._1y5pb2-D7-eeKRS8slh3lk:style(border: 1px solid red !important;)
 ! exception to allow task sharing button
 to-do.microsoft.com#@#.sharingButton
+! border around calendar events
+outlook.live.com##._1y5pb2-D7-eeKRS8slh3lk:style(border: 1px solid green !important;)
+! borders between day cells
+outlook.live.com##._6NJpXogPtosBpQ89FgQaW:style(border: 1px solid grey !important;)
+! borders on small calendar in top left
+outlook.live.com##.dayCell-84:style(border: 1px solid grey !important;)
+! border around calendar switcher in the edit event dialog
+outlook.live.com##._2vxirygNijtwkLFuDAH3C5:style(border: 3px solid red !important;)
+
