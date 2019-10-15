@@ -6,7 +6,7 @@
 !google.com###center_col:style(margin-left:0px !important)
 play.google.com##.gpm-quick-nav:style(opacity: 1 !important)
 play.google.com##.time-label:style(opacity: 1 !important)
-play.google.com##.x-scope:style(opacity: 1 !important)
+!play.google.com##.x-scope:style(opacity: 1 !important)
 play.google.com###time_container_current:style(opacity: 1 !important)
 play.google.com###time_container_duration:style(opacity: 1 !important)
 play.google.com##.now-playing-actions:style(opacity: 1 !important; width: 140px !important)
@@ -135,4 +135,3 @@ outlook.live.com##._6NJpXogPtosBpQ89FgQaW:style(border: 1px solid grey !importan
 outlook.live.com##.dayCell-84:style(border: 1px solid grey !important;)
 ! border around calendar switcher in the edit event dialog
 outlook.live.com##._2vxirygNijtwkLFuDAH3C5:style(border: 5px solid red !important;)
-
