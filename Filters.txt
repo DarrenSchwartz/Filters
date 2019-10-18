@@ -10,7 +10,7 @@ play.google.com###time_container_current:style(opacity: 1 !important)
 play.google.com###time_container_duration:style(opacity: 1 !important)
 play.google.com##.now-playing-actions:style(opacity: 1 !important; width: 140px !important)
 play.google.com##.paper-toast-0.x-scope
-play.google.com###playButton:style(border: 20px solid red; background-color:lightgreen)
+play.google.com###playButton:style(border: 45px double red; background-color:lightgreen)
 play.google.com###buttonContent:style(color:blue; background-color:orange)
 ebay.ca##a:style(text-decoration: underline !important; text-decoration-color: red !important;)
 ebay.ca##.sticky-header:style(padding:2px !important; border: 1px solid red !important;)
