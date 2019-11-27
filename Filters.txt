@@ -57,6 +57,7 @@ humblebundle.com##.hero-foreground
 netflix.com##.billboard-row
 alibaba.com###J-ali-sidebar
 hivemq.com###nlPopup
+instructables.com###teacher-notes
 
 ! Universal element hiding rules
 ##.js-sharing.sharing
