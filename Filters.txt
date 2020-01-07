@@ -12,6 +12,7 @@ play.google.com##.now-playing-actions:style(opacity: 1 !important; width: 140px 
 play.google.com##.paper-toast-0.x-scope
 play.google.com###playButton:style(border: 45px double red !important; background-color:lightgreen !important;)
 play.google.com###buttonContent:style(color:blue !important; background-color:orange !important;)
+play.google.com###material-vslider:style(opacity: 1 !important;)
 ebay.ca##a:style(text-decoration: underline !important; text-decoration-color: red !important;)
 ebay.ca##.sticky-header:style(padding:2px !important; border: 1px solid red !important;)
 github.com##a:style(text-decoration: underline !important; text-decoration-color: red !important;)
