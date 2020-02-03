@@ -126,7 +126,7 @@ msn.com###aside
 
 ! Games with Gold
 ||xbl-smooth-ssl-xboxlive-com.akamaized.net^$xmlhttprequest,domain=www.microsoft.com
-microsoft.com##.cli_backgroundTrailer.pi-background:style(height:200px !important)
+!microsoft.com##.cli_backgroundTrailer.pi-background:style(height:200px !important)
 xbox.com###TopContentBlockList_2
 
 ! exception to allow task sharing button
