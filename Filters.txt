@@ -93,7 +93,7 @@ instructables.com###teacher-notes
 ##div[title*="advert"]
 !##div[title*="share"]
 !##div[class*="cookie"]
-!##div[class*="gdpr"]
+##div[class*="gdpr"]
 !##div[class*="share"]
 ##div[class*="cookie-policy"]
 ##div[class*="cookies-policy"]
