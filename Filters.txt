@@ -40,7 +40,6 @@ sunlife.com###providerSearchBanner
 sunlife.com###modalpopupAccessAllowed
 sunlife.com##.in.fade.modal-backdrop
 makeuseof.com###sidebar
-nodered.org##.alert-info.alert.signup-cta
 nodered.org###banner
 linkedin.com###msg-overlay
 amazon.*##.shipping.hero
@@ -61,6 +60,7 @@ hivemq.com###nlPopup
 instructables.com###teacher-notes
 
 ! Universal element hiding rules
+##.alert-info.alert.signup-cta
 ##.js-sharing.sharing
 ##.adsblocked
 ##eubanner
@@ -69,7 +69,6 @@ instructables.com###teacher-notes
 ##ad
 ##.soc_med
 ##nav-social
-##.share
 ###share
 ###ctl00_CP_pnlVisaCheckout
 ##FeedBackModuleContainer
@@ -131,6 +130,9 @@ xbox.com###TopContentBlockList_2
 
 ! exception to allow task sharing button
 to-do.microsoft.com#@#.sharingButton
+tripcase.com#@#.shares
+tripcase.com#@#.icon-share
+
 ! border around calendar events
 outlook.live.com##._1y5pb2-D7-eeKRS8slh3lk:style(border: 1px solid green !important;)
 ! borders between day cells
