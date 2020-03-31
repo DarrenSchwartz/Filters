@@ -58,6 +58,8 @@ netflix.com##.billboard-row
 alibaba.com###J-ali-sidebar
 hivemq.com###nlPopup
 instructables.com###teacher-notes
+elibrary.sd61.bc.ca##div.alert-wrap
+elibrary.sd61.bc.ca###f-stretch
 
 ! Universal element hiding rules
 ##.alert-info.alert.signup-cta
