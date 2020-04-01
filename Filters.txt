@@ -142,4 +142,4 @@ outlook.live.com##.dayCell-84:style(border: 1px solid grey !important;)
 ! border around calendar switcher in the edit event dialog
 outlook.live.com##._2vxirygNijtwkLFuDAH3C5:style(border: 5px solid red !important;)
 ! borders on small calendar in top left
-outlook.live.com##.dayCell-83:style(border: 1px solid grey !important;)
+outlook.live.com##.dayCell-88:style(border: 1px solid grey !important;)
