@@ -92,10 +92,8 @@ elibrary.sd61.bc.ca###f-stretch
 ##div[title*="cookie"]
 ##div[title*="gdpr"]
 ##div[title*="advert"]
-!##div[title*="share"]
 !##div[class*="cookie"]
 ##div[class*="gdpr"]
-!##div[class*="share"]
 ##div[class*="cookie-policy"]
 ##div[class*="cookies-policy"]
 
