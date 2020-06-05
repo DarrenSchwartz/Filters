@@ -21,6 +21,8 @@ amazon.ca##.scrubberBar:style(opacity: 1 !important;)
 successfactors.com##.tgm-objective-actions:style(border:3px solid red !important;)
 successfactors.com##.tgm-objective-name-edit:style(border:3px solid red !important; box-shadow:5px 5px 10px red !important; background-color:lightgreen !important; font-size: 20px !important; color: red !important; padding:4px !important;)
 successfactors.com###customHeaderModulePickerBtn:style(border:3px solid red !important;)
+teams.microsoft.com##.ts-add-message:style(margin: 0px !important; height:40px !important;)
+teams.microsoft.com##.ts-new-message:style(padding:0px !important;)
 
 ! Random domains
 allrecipes.com##.magazine-bar
