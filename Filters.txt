@@ -23,6 +23,7 @@ successfactors.com##.tgm-objective-name-edit:style(border:3px solid red !importa
 successfactors.com###customHeaderModulePickerBtn:style(border:3px solid red !important;)
 !teams.microsoft.com##.ts-add-message:style(margin: 0px !important; height:40px !important;)
 !teams.microsoft.com##.ts-new-message:style(padding:0px !important;)
+questrade.com##.chart-date-range-selected:style(border:1px solid red !important;)
 
 ! Random domains
 allrecipes.com##.magazine-bar
@@ -98,6 +99,8 @@ elibrary.sd61.bc.ca###f-stretch
 ##div[class*="gdpr"]
 ##div[class*="cookie-policy"]
 ##div[class*="cookies-policy"]
+##div[title*="covid"]
+##div[class*="covid"]
 
 google.*##.noprint.scene-footer-container
 google.*##.AUiS2
