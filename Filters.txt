@@ -4,15 +4,6 @@
 
 ! CSS rules - must apply to a specific domain, no domain wildcards
 !google.com###center_col:style(margin-left:0px !important)
-play.google.com##.gpm-quick-nav:style(opacity: 1 !important)
-play.google.com##.time-label:style(opacity: 1 !important)
-play.google.com###time_container_current:style(opacity: 1 !important)
-play.google.com###time_container_duration:style(opacity: 1 !important)
-play.google.com##.now-playing-actions:style(opacity: 1 !important; width: 140px !important)
-play.google.com##.paper-toast-0.x-scope
-play.google.com###playButton:style(border: 45px double red !important; background-color:lightgreen !important;)
-play.google.com###buttonContent:style(color:blue !important; background-color:orange !important;)
-play.google.com###material-vslider:style(opacity: 1 !important;)
 ebay.ca##a:style(text-decoration: underline !important; text-decoration-color: red !important;)
 ebay.ca##.sticky-header:style(padding:2px !important; border: 1px solid red !important;)
 github.com##a:style(text-decoration: underline !important; text-decoration-color: red !important;)
@@ -24,6 +15,7 @@ successfactors.com###customHeaderModulePickerBtn:style(border:3px solid red !imp
 !teams.microsoft.com##.ts-add-message:style(margin: 0px !important; height:40px !important;)
 !teams.microsoft.com##.ts-new-message:style(padding:0px !important;)
 questrade.com##.chart-date-range-selected:style(border:1px solid red !important;)
+192.168.1.1###header:style(position:sticky; top:0;)
 
 ! Random domains
 allrecipes.com##.magazine-bar
@@ -61,8 +53,6 @@ netflix.com##.billboard-row
 alibaba.com###J-ali-sidebar
 hivemq.com###nlPopup
 instructables.com###teacher-notes
-elibrary.sd61.bc.ca##div.alert-wrap
-elibrary.sd61.bc.ca###f-stretch
 
 ! Universal element hiding rules
 ##.alert-info.alert.signup-cta
