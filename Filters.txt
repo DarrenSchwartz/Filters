@@ -3,7 +3,6 @@
 ! Description: Darren's personal filter list
 
 ! CSS rules - must apply to a specific domain, no domain wildcards
-!google.com###center_col:style(margin-left:0px !important)
 ebay.ca##a:style(text-decoration: underline !important; text-decoration-color: red !important;)
 ebay.ca##.sticky-header:style(padding:2px !important; border: 1px solid red !important;)
 github.com##a:style(text-decoration: underline !important; text-decoration-color: red !important;)
@@ -15,7 +14,7 @@ successfactors.com###customHeaderModulePickerBtn:style(border:3px solid red !imp
 !teams.microsoft.com##.ts-add-message:style(margin: 0px !important; height:40px !important;)
 !teams.microsoft.com##.ts-new-message:style(padding:0px !important;)
 questrade.com##.chart-date-range-selected:style(border:1px solid red !important;)
-192.168.1.1###header:style(position:sticky; top:0;)
+192.168.5.1###header:style(position:sticky; top:0;)
 
 ! Random domains
 allrecipes.com##.magazine-bar
