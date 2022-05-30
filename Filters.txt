@@ -129,10 +129,6 @@ tripcase.com#@#.icon-share
 thingiverse.com#@#.share
 
 ! border around calendar events
-outlook.live.com##._1y5pb2-D7-eeKRS8slh3lk:style(border: 1px solid green !important;)
+outlook.live.com##.W0ta7:style(border:1px solid red !important;)
 ! borders between day cells
-outlook.live.com##.dayCell-84:style(border: 1px solid grey !important;)
-! border around calendar switcher in the edit event dialog
-outlook.live.com##._2vxirygNijtwkLFuDAH3C5:style(border: 5px solid red !important;)
-! borders on small calendar in top left
-outlook.live.com##.dayCell-88:style(border: 1px solid grey !important;)
+outlook.live.com##.pXY33:style(border:1px solid blue !important;)
