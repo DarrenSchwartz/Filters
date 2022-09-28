@@ -14,7 +14,6 @@ successfactors.com###customHeaderModulePickerBtn:style(border:3px solid red !imp
 !teams.microsoft.com##.ts-add-message:style(margin: 0px !important; height:40px !important;)
 !teams.microsoft.com##.ts-new-message:style(padding:0px !important;)
 questrade.com##.chart-date-range-selected:style(border:1px solid red !important;)
-192.168.5.1###header:style(position:sticky; top:0;)
 
 ! Random domains
 allrecipes.com##.magazine-bar
