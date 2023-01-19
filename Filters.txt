@@ -8,12 +8,6 @@ ebay.ca##.sticky-header:style(padding:2px !important; border: 1px solid red !imp
 github.com##a:style(text-decoration: underline !important; text-decoration-color: red !important;)
 github.com##.repository-content:style(width:98%; position:absolute; left:1%)
 amazon.ca##.scrubberBar:style(opacity: 1 !important;)
-successfactors.com##.tgm-objective-actions:style(border:3px solid red !important;)
-successfactors.com##.tgm-objective-name-edit:style(border:3px solid red !important; box-shadow:5px 5px 10px red !important; background-color:lightgreen !important; font-size: 20px !important; color: red !important; padding:4px !important;)
-successfactors.com###customHeaderModulePickerBtn:style(border:3px solid red !important;)
-!teams.microsoft.com##.ts-add-message:style(margin: 0px !important; height:40px !important;)
-!teams.microsoft.com##.ts-new-message:style(padding:0px !important;)
-questrade.com##.chart-date-range-selected:style(border:1px solid red !important;)
 
 ! Random domains
 allrecipes.com##.magazine-bar
@@ -38,7 +32,6 @@ linkedin.com###msg-overlay
 amazon.*##.shipping.hero
 amazon.ca###sc.new-upsell
 arduino.cc/video
-ifttt.com##.site-footer
 licdn.com/scds/common/u/images/apps/uas/*.jpg$image
 costco.ca###hero-carousel > .draggable.slick-list > .slick-track
 computerworld.com##.fakesidebar-auto.fakesidebar[id^="fsb-"]
@@ -80,10 +73,9 @@ instructables.com###teacher-notes
 ##.cookies-policy-consent-popup
 
 ! wildcard filters - these break some sites
-##div[title*="cookie"]
+##div[title*="cookie-policy"]
 ##div[title*="gdpr"]
 ##div[title*="advert"]
-!##div[class*="cookie"]
 ##div[class*="gdpr"]
 ##div[class*="cookie-policy"]
 ##div[class*="cookies-policy"]
@@ -118,7 +110,6 @@ msn.com###aside
 
 ! Games with Gold
 ||xbl-smooth-ssl-xboxlive-com.akamaized.net^$xmlhttprequest,domain=www.microsoft.com
-!microsoft.com##.cli_backgroundTrailer.pi-background:style(height:200px !important)
 xbox.com###TopContentBlockList_2
 
 ! exception to allow task sharing button
