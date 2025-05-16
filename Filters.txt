@@ -108,17 +108,6 @@ msn.com###filmstripouter
 msn.com###recentquotes
 msn.com###aside
 
-! Games with Gold
-||xbl-smooth-ssl-xboxlive-com.akamaized.net^$xmlhttprequest,domain=www.microsoft.com
-xbox.com###TopContentBlockList_2
-
 ! exception to allow task sharing button
 to-do.microsoft.com#@#.sharingButton
-tripcase.com#@#.shares
-tripcase.com#@#.icon-share
 thingiverse.com#@#.share
-
-! border around calendar events
-outlook.live.com##.W0ta7:style(border:1px solid red !important;)
-! borders between day cells
-outlook.live.com##.pXY33:style(border:1px solid blue !important;)
